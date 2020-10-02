@@ -1,0 +1,28 @@
+1.      https://github.com/aria2/aria2/releases     
+
+Download the latest version of aria2
+Unzip and create four files in the current directory:
+
+
+Aria2.log (log, empty file will do)
+aria2.session (download history, empty file will do)
+aria2.conf (configuration file)
+HideRun.vbs (used for running hidden cmd window)
+
+
+2.  Edit aria2.conf  Copy https://github.com/zz1616611/aiss/blob/master/aria2.conf
+
+
+3.  Pay attention to modify the following file path
+
+dir=C:\Users\hello\Downloads\            
+
+log=C:\Users\hello\Downloads\aria2-1.35.0-win-64bit-build1\aria2.log
+
+input-file=C:\Users\hello\Downloads\aria2-1.35.0-win-64bit-build1\aria2.session
+
+save-session=C:\Users\hello\Downloads\aria2-1.35.0-win-64bit-build1\aria2.session
+
+4.  Edit HideRun.vbs +file path
+
+CreateObject("WScript.Shell").Run "C:\Users\hello\Downloads\aria2-1.35.0-win-64bit-build1\aria2c.exe --conf-path=aria2.conf --async-dns=false",0
