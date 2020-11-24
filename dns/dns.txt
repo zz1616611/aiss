@@ -1,0 +1,516 @@
+﻿Comodo Secure DNS (provided by Komodo) 8.26.56.26/8.20.247.20
+China Taiwan Chunghwa Telecom HiNet DNS: (168.95.192.1; 168.95.1.1)
+
+Hutchison Whampoa Limited (202.45.84.58)
+
+Foreign public DNS Cloudflare & APNIC (IPv4: Primary DNS: 1.1.1.1, alternate: 1.0.0.1; IPv6: Primary DNS: 2001:2001::, alternate 2001:2001:2001::)
+
+AdGuard DNS (beta):
+
+Default (can block ads, tracking and phishing URLs)
+
+176.103.130.130; 176.103.130.131
+
+The IPv6 address is: 2a00:5a60::ad1:0ff; 2a00:5a60::ad2:0ff
+
+Family protection (default + block adult websites + safe search)
+
+176.103.130.132; 176.103.130.134
+
+IPv6 address usage: 2a00:5a60::bad1:0ff; 2a00:5a60::bad2:0ff
+
+Google DNS (8.8.8.8; 8.8.4.4)
+
+Google Google Public DNS IPv6 DNS (2001:4860:4860::8888; 2001:4860:4860::8844)
+
+level 3: (4.2.2.1; 4.2.2.2)
+
+IBM Quad9 DNS (9.9.9.9)
+
+V2EX DNS (199.91.73.222; 178.79.131.110)
+
+OpenDNS (208.67.222.222; 208.67.220.220)
+
+OpenDNS Family: (208.67.222.123, 208.67.220.123)
+
+UltraDNS (156.154.70.1; 156.154.71.1)
+
+Norton ConnectSafe (199.85.126.10; 199.85.127.10)
+
+Verisign Public DNS (64.6.64.6; 64.6.65.6)
+
+Dyn DNS (216.146.35.35; 216.146.36.36)
+
+Freenom World DNS (80.80.80.80; 80.80.81.81)
+
+Yandex Basic (77.88.8.8; 77.88.8.1)
+
+Yandex Basic (77.88.8.8; 77.88.8.2)
+
+Yandex Basic (77.88.8.7; 77.88.8.3)
+
+Cambodia CN2 DNS (103.197.104.178; 103.197.106.75; 203.189.136.148) ping is around 110-120
+
+Hurricane Electric HEDNS (IPV4: 74.82.42.42; IPV6: 2001: 470: 20: 2; IPV4: 66.220.18.42)
+
+UCOM Tokyo, Japan (203.112.2.4)
+
+DNS.WATCH (IPV4: 84.200.69.80; 84.200.70.40; IPV6: 2001:1608:10:25::1c04:b12f; 2001:1608:10:25::9249:d69b)
+
+SafeDNS (195.46.39.39; 195.46.39.40)
+
+puntCAT DNS (IPV4: 109.69.8.51; IPV6: 2a00:1508:0:4::9)
+
+Korea Telecom (not Korea Changan University) DNS (168.126.63.1; 168.126.63.2)
+
+
+Canadian DNS server address:
+
+209.166.160.36
+
+209.166.160.132
+
+UK DNS server address:
+
+193.0.14.129
+
+Japan DNS server address:
+
+202.12.27.33
+
+202.216.228.18
+
+South Korea DNS server address:
+
+164.124.101.31
+
+203.248.240.31
+
+168.126.63.60
+
+168.126.63.61
+
+New Zealand DNS server address:
+
+202.27.184.3
+
+Thailand DNS server address:
+
+209.166.160.132
+
+202.44.8.34
+
+202.44.8.2
+
+India DNS server address:
+
+202.138.103.100
+
+202.138.96.2
+
+
+Start DNS ip End DNS IP DNS location
+
+61.31.1.161.31.1.1 Taipei City, Taiwan Taiwan Fixed Network Co., Ltd. DNS server
+61.31.233.161.31.233.4 Taipei, Taiwan Taiwan Fixed Network Corporation DNS server
+61.60.224.361.60.224.3 Taichung City, Taiwan Province Taiwan Basic Development Technology Co., Ltd. DNS server
+61.60.224.561.60.224.5 Taichung City, Taiwan Province Taiwan Basic Development Technology Co., Ltd. DNS server
+115.43.81.64115.43.81.64 Taiwan Province DNS server
+139.175.10.20139.175.10.21 Taiwan Province New Century Information Technology Co., Ltd. DNS server
+139.175.55.244 139.175.55.245 Taiwan Province New Century Information Technology Co., Ltd. DNS server
+139.175.150.20139.175.150.21 Taiwan Province New Century Information Technology Co., Ltd. DNS server
+139.175.252.16 139.175.252.16 Taiwan Province New Century Information Technology Co., Ltd. DNS server
+168.95.1.1168.95.1.1 Taiwan Province Chunghwa Telecom (HiNet) data center DNS server
+168.95.192.1 168.95.192.1 Taiwan Province Chunghwa Telecom (HiNet) data center DNS server
+192.192.3.190 192.192.3.190 Taiwan Province DNS server
+192.192.3.1991 92.192.3.199 Taiwan Province DNS server
+192.192.9.27 192.192.9.27 Taiwan Province DNS server
+192.192.13.180 192.192.13.180 Taiwan Province DNS server
+192.192.45.1 192.192.45.1 Taiwan Province DNS server
+192.192.77.5 192.192.77.5 Taiwan Province DNS server
+192.192.77.15 192.192.77.15 Taiwan Province DNS server
+192.192.78.33 192.192.78.33 Taiwan Province DNS server
+192.192.78.100 192.192.78.100 Taiwan Province DNS server
+192.192.78.183192.192.78.183 Taiwan Province DNS server
+192.192.85.68192.192.85.68 Taiwan Province DNS server
+192.192.117.108 192.192.117.109 Taiwan Province DNS server
+192.192.124.20192.192.124.20 Taiwan Province DNS server
+192.192.124.25192.192.124.26 Taiwan Province DNS server
+192.192.131.1 192.192.131.1 Taiwan Province DNS server
+192.192.140.17 192.192.140.17 Taiwan Province DNS server
+192.192.140.36 192.192.140.36 Taiwan Province DNS server
+192.192.212.33 192.192.212.33 Taiwan Province DNS server
+192.192.227.35 192.192.227.35 Taiwan Province DNS server
+192.192.235.60 192.192.235.60 Taiwan Province DNS server
+210.200.211.193 210.200.211.193 Taiwan Province Asia Pacific Telecom Co., Ltd. DNS server
+210.200.211.225 210.200.211.225 Taiwan Province Asia Pacific Telecom Co., Ltd. DNS server
+211.78.130.1211.78.130.3 Taiwan Province New Century Information Technology Co., Ltd. DNS server
+
+
+
+
+27.34.160.1127.34.160.12 KDDI Network Communications Company DNS Server, Kojimacho, Chiyoda District, Tokyo, Japan
+36.2.8.24236.2.8.242 Japan VECTANT Co., Ltd. DNS server
+36.2.24.14536.2.24.145 DNS server of Japan VECTANT Co., Ltd.
+36.2.27.18736.2.27.187 Japan DNS server
+45.120.159.045.120.159.255 Internap Data Center, Starrydns, Osaka, Japan
+60.32.81.10660.32.81.106 Japan DNS server
+60.32.112.4260.32.112.42 Japan DNS server
+60.32.206.6060.32.206.60 Japan DNS server
+61.120.83.12261.120.83.122 Japan DNS server
+61.196.101.16461.196.101.164 Japan DNS server
+61.199.193.16261.199.193.162 Japan DNS server
+61.208.115.24261.208.115.242 Japan DNS server
+61.211.224.261.211.224.3 Japan Sakura Internet Data Center DNS server
+101.1.90.14101.1.90.14 Japan DNS server
+101.1.100.48 101.1.100.48 Japan DNS server
+103.56.218.0103.56.219.255 SoftLayer Data Center, Starrydns, Tokyo, Japan
+103.194.40.0 103.194.41.255 SoftLayer Data Center, Starrydns, Tokyo, Japan
+103.200.96.0 103.200.96.255 SoftLayer Data Center of Starrydns, Tokyo, Japan
+103.200.97.0 103.200.97.255 Internap Data Center, Starrydns, Osaka, Japan
+103.204.172.0 103.204.173.255 Internap Data Center, Starrydns, Osaka, Japan
+103.204.174.0 103.204.174.255 Data Center of Starrydns, Osaka, Japan
+103.204.175.0 103.204.175.255 Internap Data Center, Starrydns, Osaka, Japan
+108.61.10.10108.61.10.10 The DNS server of the Choopa Data Center of Vultr Holdings, Heiwa Island, Tokyo, Japan
+110.5.9.43110.5.9.43 Japan DNS server
+112.137.115.102 112.137.115.102 Japan DNS server
+112.137.115.2001 12.137.115.200 Japan DNS server
+113.41.33.15113.41.33.15 Japanese DNS server
+114.145.243.126 114.145.243.126 Japan DNS server
+114.179.83.175 114.179.83.175 Japan DNS server
+118.243.81.162118.243.81.162 Japan DNS server
+119.25.81.25 119.25.81.25 Japanese DNS server
+122.128.96.0 122.128.97.255 SoftLayer Data Center of Starrydns, Tokyo, Japan
+122.210.229.161 122.210.229.161 Japan DNS server
+122.250.85.131 122.250.85.131 Japan DNS server
+124.144.18.121 124.144.18.121 Japan DNS server
+133.100.240.10 133.100.240.11 Fukuoka University DNS Server, Jonan District, Fukuoka City, Japan
+133.242.0.3133.242.0.4 Japan Sakura Internet Data Center DNS server
+143.90.130.11143.90.130.11 Japan Softbank Telecom DNS server
+143.90.130.166143.90.130.166 Japan Softbank Telecom DNS server
+157.7.180.133 157.7.180.133 Japan Tokyo Metropolitan GMO Internet company ConoHa data center DNS server
+158.205.229.244 158.205.229.244 Japan SoftBank (SoftBank) Telecom Data Center DNS Server
+158.205.237.131 158.205.237.131 Japan SoftBank (SoftBank) Telecom Data Center DNS Server
+180.221.227.72180.221.227.72 Japan DNS server
+202.67.53.31202.67.53.32, Tokyo, Shinjuku 6-chome 27-30, SQUARE-ENIX Co., Ltd. DNS server
+202.67.53.95202.67.53.96, Tokyo, Shinjuku 6-chome 27-30, SQUARE-ENIX Co., Ltd. DNS server
+202.74.124.1202.74.124.1 Japan DNS server
+202.219.177.121 202.219.177.121 Japan DNS server
+202.229.52.107 202.229.52.107 Japan DNS server
+202.248.2.201202.248.2.201 Japan DNS server
+202.248.20.133 202.248.20.133 Japan DNS server
+202.248.37.74202.248.37.74 Japan DNS server
+203.76.244.0203.76.245.255 Internap Data Center, Starrydns, Osaka, Japan
+203.112.2.4203.112.2.5 Japan UCOM company MIINET network DNS server
+210.131.113.123 210.131.113.123 Japan DNS server
+210.139.255.33210.139.255.33 So-net DNS server in Shinagawa-ku, Tokyo, Japan
+210.139.255.49210.139.255.49 So-net DNS server in Shinagawa-ku, Tokyo, Japan
+210.157.0.1 210.157.0.2 GMO Internet Corporation DNS server, Shibuya-ku, Tokyo, Japan
+210.157.3.4 210.157.3.4 Japan GMO Internet Data Center DNS Server
+210.163.100.36210.163.100.36 Japanese DNS server
+210.173.170.512 10.173.170.51 Japan INTERNET MULTIFEED Co., Ltd. DNS server
+210.173.170.71210.173.170.71 Japan INTERNET MULTIFEED Co., Ltd. DNS server
+210.188.224.10210.188.224.13 Japan Sakura Internet Data Center DNS server
+210.224.163.3 210.224.163.4 Japan Sakura Internet Data Center DNS server
+210.225.175.66210.225.175.66 Japanese DNS server
+210.225.199.40210.225.199.40 Japan DNS server
+210.230.175.10210.230.175.10 Japan DNS server
+210.230.175.12210.230.175.12 Japan DNS server
+210.233.117.1210.233.117.1 Japan DNS server
+210.235.170.98210.235.170.98 Japanese DNS server
+210.235.172.144 210.235.172.144 Japan DNS server
+210.248.255.82210.248.255.82 Japan DNS server
+211.5.99.12211.5.99.12 Japan DNS server
+211.124.30.187211.124.30.187 Japanese DNS server
+211.130.171.104211.130.171.104 Japan DNS server
+211.134.181.104211.134.181.105 Japan KDDI Communications Company DNS server
+218.220.5.202218.220.5.202 Japan DNS server
+218.223.32.1 218.223.32.1 Japan DNS server
+219.5.164.172 219.5.164.172 Japan DNS server
+219.163.55.74219.163.55.74 Japanese DNS server
+220.110.92.202 220.110.92.202 Japan DNS server
+220.110.139.157 220.110.139.157 Japan DNS server
+221.112.33.190221.112.33.190 Japan DNS server
+
+
+
+
+4.2.2.14.2.2.6 Level3 public DNS server in Broomfield, Co., USA
+8.8.4.48.8.4.4 The DNS server of Google Inc., Mountain View, Santa Clara County, California, USA
+8.8.8.88.8.8.8 The DNS server of Google Inc., Mountain View, Santa Clara County, California, USA
+12.17.136.131 12.17.136.131 US ATT company DNS server
+12.25.232.115 12.25.232.115 US ATT company DNS server
+12.32.34.3312.32.34.33 US ATT company DNS server
+12.49.240.6812.49.240.68 US ATT company DNS server
+12.127.16.6712.127.16.68 AT&T DNS server in Morristown Township, Morris County, New Jersey, USA
+12.127.17.7112.127.17.72 AT&T DNS server in Morristown Township, Morris County, New Jersey, USA
+12.166.30.212.166.30.2 American ATT company DNS server
+12.180.165.4012.180.165.40 US ATT company DNS server
+23.244.46.0 23.244.46.255 Los Angeles RAIDNS, USA
+24.154.1.4 24.154.1.5 Ohio DNS server, USA
+24.159.64.2324.159.64.23 The DNS server of Charter Communications, St. Louis, Missouri, USA
+24.177.176.3824.177.176.38 Charter Communications Corporation DNS server in St. Louis, Missouri, USA
+24.178.162.324.178.162.3 The DNS server of Charter Communications, St. Louis, Missouri, USA
+24.197.96.1624.197.96.16 Missouri DNS server
+24.217.201.6724.217.201.67 The DNS server of Charter Communications, St. Louis, Missouri, USA
+24.233.167.16724.233.167.168 DNS server of Advanced Cable Communications Company, Coral Springs, Broward County, Florida, USA
+24.237.132.524.237.132.5 United States Alaska DNS server
+38.98.1.538.98.1.5 The DNS server of Cogent Communications, Washington, USA
+38.98.10.13238.98.10.132 DNS server of Cogent Communications Corporation, Washington, USA
+38.116.192.1138.116.192.11 Washington Cogent Communications Corporation DNS server
+45.125.164.045.125.164.255 United States Starrydns psychz data center
+48.6.16.24548.6.16.245 US Cox Communications Company DNS server
+63.135.48.130 63.135.48.130 U.S. NIC registry DNS server
+63.251.62.163.251.62.1 US Internap network DNS server
+63.251.129.163.251.129.1 US Internap network DNS server
+63.251.129.3363.251.129.33 US Internap network DNS server
+63.251.161.163.251.161.1 US Internap network DNS server
+64.4.129.25064.4.129.250 California DNS server
+64.13.32.5 64.13.32.5 US California DNS server
+64.13.48.1264.13.48.12 California DNS server
+64.13.131.3464.13.131.34 California DNS server
+64.30.215.12964.30.215.129 California DNS server
+64.57.176.1264.57.176.12 California DNS server
+64.58.4.264.58.4.2 California DNS server
+64.58.15.264.58.15.2 California DNS server
+64.58.254.264.58.254.2 California DNS server
+64.79.224.364.79.224.3 California DNS server
+64.79.224.2764.79.224.27 California DNS server
+64.85.177.1064.85.177.11 California DNS server
+64.89.247.1564.89.247.15 California DNS server
+64.90.209.5364.90.209.53 California DNS server
+64.91.89.264.91.89.2 US California DNS server
+64.94.1.164.94.1.1 Internap Network Services Company (INSC) DNS server in Atlanta, Georgia, USA
+64.94.33.164.94.33.1 Internap Network Services Company (INSC) DNS server in Atlanta, Georgia, USA
+64.105.97.9064.105.97.90 California DNS server
+64.105.152.18664.105.152.186 California DNS server
+64.118.80.14164.118.80.141 California DNS server
+64.119.60.564.119.60.5 California DNS server
+64.119.60.964.119.60.9 California DNS server
+64.135.2.250 64.135.2.250 California DNS server
+64.140.128.1064.140.128.10 California DNS server
+64.146.192.1664.146.192.16 California DNS server
+64.149.136.20164.149.136.201 California DNS server
+64.184.24.2264.184.24.22 The DNS server of Indiana Optical Network Co., Ltd., Indianapolis, Marion County, Indiana, USA
+64.184.24.2764.184.24.27 The DNS server of Indiana Optical Network Co., Ltd., Indianapolis, Marion County, Indiana, USA
+64.207.64.564.207.64.5 US California DNS server
+65.32.1.6565.32.1.65 The DNS server of Road Runner Holdings Ltd., Herndon Township, Virginia, USA
+65.32.1.7065.32.1.70 The DNS server of Road Runner Holdings Ltd., Herndon Township, Virginia, USA
+65.32.5.11165.32.5.112 The DNS server of Road Runner Holdings Ltd., Herndon Township, Virginia, USA
+65.125.132.165.125.132.1 The DNS server of Qwest Communications Cable Corporation, Denver, Colorado, USA
+65.248.165.1165.248.165.11 US UUNETDNS server
+66.75.160.3966.75.160.39 DNS server of RoadRunner Holdings Ltd., USA
+66.151.145.166.151.145.1 Internap Network Services Company (INSC) DNS server in Atlanta, Georgia, USA
+66.189.0.100 66.189.0.100 DNS server of Charter Communications, St. Louis, Missouri, USA
+66.207.155.3166.207.155.31 Pennsylvania DNS server, USA
+66.209.140.12466.209.140.124 The DNS server of Com Net Co., Ltd., Wapaconeta, Ogles County, Ohio, USA
+66.218.224.4066.218.224.40 DNS server of CableAmerica, USA
+66.218.245.1066.218.245.10 DNS server of CableAmerica, USA
+66.218.245.1366.218.245.13 DNS server of CableAmerica, USA
+66.240.48.966.240.48.9 The DNS server of Comcast Communications Co., Ltd., Morristown Township, Burlington County, New Jersey, USA
+67.15.193.16267.15.193.171 United States ThePlanet computer room DNS server
+67.138.116.267.138.116.2 DNS server of Integra Telecom Co., Ltd., Portland, Oregon, USA
+67.199.112.2167.199.112.21 US Virginia DNS server
+67.201.32.1167.201.32.12 US Virginia DNS server
+67.214.64.667.214.64.7 US Virginia DNS server
+67.214.64.2867.214.64.28 US Virginia DNS server
+67.215.64.067.215.95.255 OpenDNS Co., Ltd., San Francisco, California, USA
+68.28.154.1168.28.154.11 California DNS server
+68.105.28.1668.105.28.16 DNS server of Cox Communications Co., Ltd., Atlanta, Georgia, USA
+68.105.29.1668.105.29.16 DNS server of Cox Communications Co., Ltd., Atlanta, Georgia, USA
+68.208.149.22668.208.149.226 United States Bell Southern Company DNS server
+68.234.128.7068.234.128.70 DNS server in Cowesport, Pennsylvania, USA
+68.238.64.1268.238.64.12 Verizon Online Co., Ltd. DNS server in Ashburn, Loudoun County, Virginia, USA
+68.238.64.1468.238.64.14 Verizon Online Co., Ltd. DNS server in Ashburn, Loudoun County, Virginia, USA
+68.238.96.1268.238.96.12 Verizon Online Co., Ltd. DNS server in Ashburn, Loudoun County, Virginia, USA
+68.238.96.1468.238.96.14 Verizon Online Co., Ltd. DNS server in Ashburn area, Loudoun County, Virginia, USA
+68.238.112.1268.238.112.12 Verizon Online Co., Ltd. DNS server in Ashburn area, Loudoun County, Virginia, USA
+68.238.112.1468.238.112.14 Verizon Online Co., Ltd. DNS server in Ashburn area, Loudoun County, Virginia, USA
+68.238.128.1268.238.128.12 Verizon Online Co., Ltd. DNS server in Ashburn area, Loudoun County, Virginia, USA
+68.238.128.1468.238.128.14 Verizon Online Co., Ltd. DNS server in Ashburn, Loudoun County, Virginia, USA
+69.4.50.24469.4.50.244 The DNS server of Mountain Village Telephone Co., Ltd., Ingram City, Kerr County, Texas, USA
+69.4.62.7569.4.62.75 The DNS server of Mountain Village Telephone Co., Ltd., Ingram City, Kerr County, Texas, USA
+69.25.1.169.25.1.1 Internap Network Services Company (INSC) DNS server in Atlanta, Georgia, USA
+69.59.32.969.59.32.9 US CafeNetwork DNS server
+69.155.200.669.155.200.6 DNS server in St. Louis, Missouri, USA
+70.254.229.270.254.229.2 DNS server of the seven-state telecommunication network
+71.15.32.971.15.32.9 DNS server in St. Louis, Missouri, USA
+71.92.29.13071.92.29.130 The DNS server of Charter Communications, St. Louis, Missouri, USA
+71.242.0.1271.242.0.12 Verizon Online Co., Ltd. DNS server in Ashburn, Loudoun County, Virginia, USA
+71.242.0.1471.242.0.14 Verizon Online Co., Ltd. DNS server in Ashburn, Loudoun County, Virginia, USA
+71.250.0.1271.250.0.12 Verizon Online Co., Ltd. DNS server in Ashburn, Loudoun County, Virginia, USA
+71.250.0.1471.250.0.14 Verizon Online Co., Ltd. DNS server, Ashburn area, Loudoun County, Virginia, USA
+71.252.0.1271.252.0.12 Verizon Online Co., Ltd. DNS server in Ashburn, Loudoun County, Virginia, USA
+71.252.0.1471.252.0.14 Verizon Online Co., Ltd. DNS server in Ashburn, Loudoun County, Virginia, USA
+72.22.224.372.22.224.3 United States Maine/New Hampshire DNS server
+72.29.162.1772.29.162.17 Maine/New Hampshire DNS server
+72.51.175.1072.51.175.11 United States Florida DNS server
+72.233.151.5172.233.151.51 DNS server in San Francisco, California, USA
+74.84.119.15074.84.119.150 The DNS server of Mediacom Communications, Middletown, Orange County, New York, USA
+74.84.119.15374.84.119.153 Mediacom Communications Corporation DNS server in Middletown, Orange County, New York, USA
+74.222.30.274.222.30.2 DNS server of Vrtservers, Los Angeles, California, USA
+75.126.98.10875.126.98.108 The DNS server of SoftLayer Technology Corporation, Dallas, Texas, USA
+76.10.67.276.10.67.2 The DNS server of IdeaOne Telecom, Fargo, Cass County, North Dakota, USA
+76.14.0.876.14.0.9 The DNS server of IdeaOne Telecom, Fargo, Cass County, North Dakota, USA
+76.14.96.1376.14.96.14 DNS server of IdeaOne Telecom, Fargo, Cass County, North Dakota, USA
+76.14.192.876.14.192.9 The DNS server of IdeaOne Telecom, Fargo, Cass County, North Dakota, USA
+76.77.208.2376.77.208.24 DNS server of Carson Communications Co., Ltd., Ivest City, Brown County, Kansas, USA
+104.202.188.0 104.202.188.255 Los Angeles RAIDNS, USA
+128.2.200.100 128.2.200.100 Carnegie Mellon University DNS server
+128.8.10.90128.8.10.90 University of Maryland DNS server
+128.114.129.105 128.114.129.105 University of California DNS server
+128.143.2.126 128.143.2.126 University of Virginia DNS server
+128.143.3.7 128.143.3.7 University of Virginia DNS server
+128.143.22.119 128.143.22.119 University of Virginia DNS server
+129.66.20.6129.66.20.6 Huntsville City Alabama Supercomputer Network Global Public DNS Server (asnsvr2.asc) in Limestone County and Madison County, Alabama, USA
+129.66.95.3129.66.95.3 Huntsville City Alabama Supercomputer Network Global Public DNS Server (ns1.asc) in Limestone County and Madison County, Alabama, USA
+129.66.172.9129.66.172.9 Huntsville City Alabama Supercomputer Network Global Public DNS Server (ns3.asc) in Limestone County and Madison County, Alabama, USA
+129.71.1.1129.71.1.1 United States West Virginia Network Education DNS Server
+129.108.202.20129.108.202.20 University of Texas DNS server
+129.113.38.36 129.113.38.36 University of Texas DNS server
+129.137.254.4 129.137.254.4 University of Cincinnati DNS server
+129.137.255.4 129.137.255.4 University of Cincinnati DNS server
+131.94.134.129 131.94.134.129 United States Florida International University DNS server
+131.247.100.1131.247.100.1 University of South Florida DNS server
+132.170.249.15 132.170.249.15 University of Central Florida DNS server
+155.135.55.2 155.135.55.2 California State University DNS server
+156.154.70.1 156.154.70.1 DNS server of NeuStar, Virginia, USA
+156.154.70.25 156.154.70.25 The DNS server of NeuStar, Virginia, USA
+161.45.25.37161.45.25.37 US Tennessee DNS server
+161.45.193.4161.45.193.4 US Tennessee DNS server
+164.214.4.52164.214.4.52 Maryland DNS server
+165.95.31.17165.95.31.17 United States Texas A&M University DNS server
+168.143.113.2011 68.143.113.202 Englewood City DNS server, USA
+172.246.145.0 172.246.145.255 Los Angeles RAIDNS, USA
+173.203.99.131 173.203.99.131 US DNS server (dnsmasq-2.45) Rackspace Hosting company node in San Antonio, Texas
+174.37.59.9 174.37.59.9 The DNS server of SoftLayer Technology, Dallas, Texas, USA
+174.120.16.34 174.120.16.34 ThePlanet Internet Service Company DNS server in Houston, Texas, USA
+198.56.155.0198.56.155.255 Los Angeles RAIDNS, USA
+198.153.192.1 198.153.192.1 Symantec Corporation Norton DNS server, Cupertino, Santa Clara County, California
+198.153.194.1 198.153.194.1 Symantec Corporation Norton DNS server, Cupertino, Santa Clara County, California, USA
+199.7.83.42199.7.83.42 US States/DNS Root Name Server
+199.91.73.222199.91.73.222 V2EX DNS server in Los Angeles, California, USA
+199.193.248.0 199.193.248.255 Los Angeles RAIDNS, USA
+205.171.2.25205.171.2.25 The DNS server of Qwest Communications Co., Ltd., Denver, Colorado, USA
+205.171.2.65205.171.2.65 DNS server of Qwest Communications Co., Ltd., Denver, Colorado, USA
+205.171.3.25 205.171.3.25 DNS server of Qwest Communications Co., Ltd., Denver, Colorado, USA
+205.171.3.65 205.171.3.65 DNS server of Qwest Communications Co., Ltd., Denver, Colorado, USA
+206.169.217.10 206.169.217.10 Ponderosa Cable Company DNS Server, O'Neill, Madeira County, California, USA
+208.67.216.0208.67.220.219 OpenDNS Co., Ltd., San Francisco, California, USA
+208.67.220.220208.67.220.220 Public DNS server of OpenDNS Co., Ltd., San Francisco, California, USA
+208.67.220.221208.67.222.221 OpenDNS Co., Ltd., San Francisco, California, USA
+208.67.222.222208.67.222.222 Public DNS server of OpenDNS Co., Ltd., San Francisco, California, USA
+208.67.222.223208.67.223.255 OpenDNS Co., Ltd., San Francisco, California, USA
+208.69.32.0208.69.39.255 OpenDNS Co., Ltd., San Francisco, California, USA
+208.196.63.2 208.196.63.2 The DNS server of MCI Communications Services Inc., Ashburn Area, Loudoun County, Virginia, USA
+208.218.130.5208.218.130.5 The DNS server of MCI Communications Services Inc., Ashburn Area, Loudoun County, Virginia, USA
+208.246.8.14 208.246.8.14 The DNS server of MCI Communications Services Inc., Ashburn Area, Loudoun County, Virginia, USA
+209.143.0.10 209.143.0.10 DNS server of Com Net Co., Ltd., Wapaconeta City, Ogles County, Ohio, USA
+209.191.129.1209.191.129.1 Internap Network Services Company (INSC) DNS server in Atlanta, Georgia, USA
+209.234.196.12 209.234.196.12 Ponderosa Cable Company DNS server, O'Neill, Madeira County, California
+209.244.0.3209.244.0.4 Level3 public DNS server in Broomfield, Colorado, USA
+209.244.0.5 209.244.0.5 Broomfield City and County Level3 public DNS service ntp1 node in the United States
+209.244.0.6 209.244.0.6 Broomfield City and County Level3 public DNS service ntp2 node in the United States
+209.244.0.9 209.244.0.10 Broomfield County Level 3 internal DNS server
+216.8.196.88216.8.196.89 The DNS server of Enhanced Telecom Group Corporation, Sanman Township, Adams District, Ripley County, Indiana, USA
+216.8.209.88216.8.209.88 The DNS server of Enhanced Telecom Group Corporation, Sanman Township, Adams District, Ripley County, Indiana, USA
+216.8.228.88216.8.228.88 The DNS server of Enhanced Telecom Group Corporation, Sanman Township, Adams District, Ripley County, Indiana, USA
+216.52.41.1 216.52.41.1 Internap Network Services Company (INSC) DNS server in Atlanta, Georgia, USA
+216.52.65.1 216.52.65.1 Internap Network Services Company (INSC) DNS server in Atlanta, Georgia, USA
+216.52.94.1 216.52.94.1 Internap Network Services Company (INSC) DNS server in Atlanta, Georgia, USA
+216.52.126.1216.52.126.1 Internap Network Services Company (INSC) DNS server in Atlanta, Georgia, USA
+216.52.129.1216.52.129.1 Internap Network Services Company (INSC) DNS server in Atlanta, Georgia, USA
+216.52.169.1216.52.169.1 Internap Network Services Company (INSC) DNS server in Atlanta, Georgia, USA
+216.52.254.1216.52.254.1 Internap Network Services Company (INSC) DNS server in Atlanta, Georgia, USA
+216.87.84.211216.87.84.211 ViaWest Corporation DNS server in Denver, Colorado, USA
+216.211.190.3216.211.190.3 New York City DNS server, USA
+216.211.191.3216.211.191.3 New York City DNS server, USA
+208.67.222.222 208.67.222.222 IP WHOIS American DNS Public DNS server of OpenDNS Co., Ltd., San Francisco, California
+208.67.220.220 208.67.220.220 IP WHOIS American DNS Public DNS server of OpenDNS Co., Ltd., San Francisco, California
+165.87.13.129 165.87.13.129 IP WHOIS US DNS
+165.87.201.244 165.87.201.244 IP WHOIS US DNS
+205.171.3.65 205.171.3.65 IP WHOIS US DNS Denver, Colorado Qwest Communications Co., Ltd. DNS server
+205.171.2.65 205.171.2.65 IP WHOIS American DNS Denver, Colorado Qwest Communications Co., Ltd. DNS server
+198.41.0.4 198.41.0.4 IP WHOIS US DNS master root domain name server No. 01OF13 A.ROOT-SERVERS node (WorldAnycast anycast network VeriSign runs BIND software)
+198.41.0.4 198.41.0.4 IP WHOIS US DNS master root domain name server No. 01OF13 A.ROOT-SERVERS node (WorldAnycast anycast network VeriSign runs BIND software)
+198.32.64.12 198.32.64.12 IP WHOIS Saint Kitts and Nevis
+192.33.4.12 192.33.4.12 IP WHOIS US DNS master root name server global No. 03OF13 C.ROOT-SERVERS node (WorldAnycast anycast network Cogent Communications operates BIND software)
+192.203.230.10 192.203.230.10 IP WHOIS US DNS master root name server global No. 05OF13 E.ROOT-SERVERS node (WorldAnycast anycast network US DNS National Aeronautics and Space Administration operates BIND software) [Unknown IP0801] US DNS
+192.5.5.241 192.5.5.241 IP WHOIS US DNS master root name server global No. 06OF13 F.ROOT-SERVERS node (WorldAnycast Anycast Network Internet System Association operates BIND9 software)
+192.112.36.4 192.112.36.4 IP WHOIS US DNS master root name server global No. 07OF13 G.ROOT-SERVERS node (WorldAnycast anycast network US DNS Department of Defense Defense Information System Agency operates BIND software) [Unknown IP0801] US DNS
+192.36.148.17 192.36.148.17 IP WHOIS Sweden Primary root name server global No. 09OF13 I.ROOT-SERVERS node (WorldAnycast anycast network Sweden Netnod operates BIND software) US DNS Sweden
+192.58.128.30 192.58.128.30 IP WHOIS US DNS master root name server No. 10OF13 J.ROOT-SERVERS node in the world (WorldAnycast anycast network VeriSign runs BIND software)
+192.9.9.3 192.9.9.3 IP WHOIS US DNS sun (company) Oracle
+193.0.14.129 193.0.14.129 IP WHOIS Netherlands Primary root name server global No. 12OF13 L.ROOT-SERVERS node (WorldAnycast anycast network ICANN operates NSD software) United Kingdom Netherlands
+128.9.0.107 128.9.0.107 IP WHOIS US DNS Information Sciences Institute
+128.8.10.90 128.8.10.90 IP WHOIS American DNS University of Maryland DNS server American DNS University of Maryland American DNS University of Maryland
+66.33.206.206 66.33.206.206 IP WHOIS US DNS DreamHost Company, Brea, California
+208.96.10.221 208.96.10.221 IP WHOIS US DNS GoGrid Corporation, San Francisco, California
+66.33.216.216 66.33.216.216 IP WHOIS US DNS DreamHost Company, Brea, California
+205.171.3.65 205.171.3.65 IP WHOIS US DNS Denver, Colorado Qwest Communications Co., Ltd. DNS server
+205.171.2.65 205.171.2.65 IP WHOIS American DNS Denver, Colorado Qwest Communications Co., Ltd. DNS server
+165.87.13.129 165.87.13.129 IP WHOIS US DNS
+165.87.201.244 165.87.201.244 IP WHOIS US DNS
+
+Argentina DNS server list
+DNS hostname details
+216.244.192.32 nscache1.sinectis.com.ar.
+216.244.192.3 ns2.sinectis.com.ar.
+201.251.124.157 201-251-124-157.static.speedy.com.ar.
+190.210.59.45 mx-maipu-new.maruba.com.ar.
+190.210.59.40 customer-static-210-59-40.iplannetworks.net.
+64.76.6.126 64-76-6-126.dynamic.impsat.net.ar.
+200.45.85.226 dns1.savantpharm.com.ar.
+201.251.98.226 –
+190.210.108.225 customer-static-210-108-225.iplannetworks.net.
+186.136.21.210 210-21-136-186.fibertel.com.ar.
+190.210.59.36 customer-static-210-59-36.iplannetworks.net.
+200.16.163.83 dns2.irsacorp.com.ar.
+201.234.24.25 201-234-24-25.static.impsat.net.ar.
+179.41.14.223 179-41-14-223.speedy.com.ar.
+186.153.224.111 host111.186-153-224.telecom.net.ar.
+190.103.16.97 97.1-200.
+190.7.58.142 –
+201.234.24.49 201-234-24-49.static.impsat.net.ar.
+200.59.229.170 inalambrico170-229-nqn.neunet.com.ar.
+200.117.248.147 host117248147.arnet.net.ar.
+209.13.156.34 www.centrojosit.com.ar.
+201.251.101.135 201-251-101-135.static.indicom.com.ar.
+181.14.245.186 host186.181-14-245.telecom.net.ar.
+201.216.200.66 mail.fondosargentina.org.ar.
+190.2.24.245 mail.amia-empleos.org.ar.
+190.216.56.107 –
+190.7.58.147 –
+190.104.196.254 static.254.196.104.190.cps.com.ar.
+190.105.165.1 proxy.pccp.net.ar.
+200.123.249.170 host170.200-123-249.dialup.intercity.net.ar.
+181.15.221.41 host41.181-15-221.telecom.net.ar. 
+186.0.193.220 – 
+200.68.88.93 customer-static-68-88-93.iplannetworks.net. 
+200.43.56.249 – 
+181.14.249.44 host44.181-14-249.telecom.net.ar. 
+200.43.233.3 – 
+181.15.221.106 host106.181-15-221.telecom.net.ar. 
+190.196.239.95 – 
+190.221.14.210 host210.190-221-14.telmex.net.ar. 
+170.210.83.60 – 
+181.189.223.142 host181-189-223-142.wilnet.com.ar. 
+190.196.239.94 – 
+186.0.181.253 186-0-181-253.iperactive.com.ar. 
+200.41.192.172 172.host.advance.com.ar. 
+190.108.192.216 host-190.108.192.216.after-wire.com. 
+200.69.10.181 mail.dodetodo.com.ar. 
+186.148.147.176 176.cxlvii.static.eternet.cc. 
+200.5.203.242 – 
+190.107.240.1 – 
+200.61.21.225 edna225.silicanetworks.net.ar. 
+181.15.245.179 host179.181-15-245.telecom.net.ar. 
+186.190.169.234 host234.186-190-169.nodosud.com.ar. 
+190.16.39.63 63-39-16-190.fibertel.com.ar. 
+190.196.238.209 – 
+190.3.67.54 mx1.cordialfinanciera.com.ar. 
+200.61.21.113 edna113.silicanetworks.net.ar. 
+190.225.164.11 – 
+190.224.207.129 host129.190-224-207.telecom.net.ar. 
+190.221.163.157 host157.190-221-163.telmex.net.ar. 
+170.210.83.34 –
